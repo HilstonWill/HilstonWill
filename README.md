@@ -101,32 +101,19 @@ Actualmente sigo fortaleciendo mi perfil en:
 | 🏛️ **Publicación de cuentas - Rentas** | Sistema para visualizar predios de contribuyentes en municipalidades. | Gestión pública |
 | 🌐 **Modernización Digital** | Landing page con registro de asistentes y conexión a API de RENIEC. | Landing institucional |
 
----
 
-## Experiencia profesional
 
-| Periodo | Cargo / Proyecto | Institución |
-|---|---|---|
-| 2025 - Actual | Informático / Programador Semi Senior | C.E.C. Guaman Poma de Ayala |
-| 2024 | Migración y actualización de plataforma web | C.E.C. Guaman Poma de Ayala |
-| 2023 | Sistema de constancia de no deudor | Municipalidad Distrital de Santiago |
-| 2020 - Actual | Desarrollador Freelance | Proyectos independientes |
-| 2023 - 2024 | Informático / Programador Junior | C.E.C. Guaman Poma de Ayala |
-| 2022 - 2023 | Practicante de Desarrollo de Software | C.E.C. Guaman Poma de Ayala |
-| 2020 - 2021 | Técnico Informático | Compumech Perú S.A.C. |
-| 2015 - 2017 | Encargado de logística | Alys Suministros |
-
----
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HilstonWill&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HilstonWill&theme=tokyonight&hide_border=true&border_radius=12&layout=compact&langs_count=8)
+## 📊 GitHub Analytics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HilstonWill&theme=tokyonight&hide_border=true&border_radius=12&locale=es)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HilstonWill&theme=tokyo-night&hide_border=true&radius=12)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HilstonWill&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HilstonWill&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HilstonWill&theme=tokyonight)
 
 ---
 
